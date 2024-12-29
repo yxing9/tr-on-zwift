@@ -1,0 +1,17 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Slatna - Endurance 2.1</name>
+    <description>Slatna consists of nearly 120 minutes of aerobic Endurance riding spent between 50-55% FTP.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="RECOVERY"/>
+        <tag name="ENDURANCE"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="840" Power="0.50450003" pace="0"/>
+        <SteadyState Duration="1380" Power="0.52450001" pace="0"/>
+        <SteadyState Duration="1380" Power="0.54449999" pace="0"/>
+        <SteadyState Duration="1500" Power="0.55449998" pace="0"/>
+        <Cooldown Duration="1800" PowerLow="0.55449998" PowerHigh="0.50450003" pace="0"/>
+    </workout>
+</workout_file>

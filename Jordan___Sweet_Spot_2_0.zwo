@@ -1,0 +1,31 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Jordan - Sweet Spot 2.0</name>
+    <description>4x8-minute intervals starting with 4 minute at 84% FTP followed by 3 minutes at 80% FTP and finishing with 1 minute at 76% FTP. Recovery intervals are 3 minutes long.</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <SteadyState Duration="150" Power="0.5"/>
+        <SteadyState Duration="150" Power="0.6"/>
+        <SteadyState Duration="180" Power="0.4"/>
+        <SteadyState Duration="180" Power="0.45"/>
+        <SteadyState Duration="180" Power="0.5"/>
+        <SteadyState Duration="240" Power="0.84"/>
+        <SteadyState Duration="180" Power="0.8"/>
+        <SteadyState Duration="60" Power="0.76"/>
+        <SteadyState Duration="180" Power="0.4"/>
+        <SteadyState Duration="240" Power="0.84"/>
+        <SteadyState Duration="180" Power="0.8"/>
+        <SteadyState Duration="60" Power="0.76"/>
+        <SteadyState Duration="180" Power="0.4"/>
+        <SteadyState Duration="240" Power="0.84"/>
+        <SteadyState Duration="180" Power="0.8"/>
+        <SteadyState Duration="60" Power="0.76"/>
+        <SteadyState Duration="180" Power="0.4"/>
+        <SteadyState Duration="240" Power="0.84"/>
+        <SteadyState Duration="180" Power="0.8"/>
+        <SteadyState Duration="60" Power="0.76"/>
+        <SteadyState Duration="300" Power="0.4"/>
+    </workout>
+</workout_file>

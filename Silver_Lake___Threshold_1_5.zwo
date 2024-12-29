@@ -1,0 +1,22 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Silver Lake - Threshold 1.5</name>
+    <description>Silver Lake is 4x5-minute over-under intervals alternating between 1 minute, 45 seconds at 96% FTP and 45-seconds at 105% FTP with 7-minute active recoveries between intervals.</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <SteadyState Duration="180" Power="0.49200001" pace="0"/>
+        <SteadyState Duration="180" Power="0.65200001" pace="0"/>
+        <SteadyState Duration="180" Power="0.78799999" pace="0"/>
+        <SteadyState Duration="900" Power="0.49900001" pace="0"/>
+        <IntervalsT Repeat="2" OnDuration="105" OffDuration="45" OnPower="0.96399999" OffPower="1.052" pace="0" OverUnder="1"/>
+        <SteadyState Duration="420" Power="0.40400001" pace="0"/>
+        <IntervalsT Repeat="2" OnDuration="105" OffDuration="45" OnPower="0.96399999" OffPower="1.052" pace="0" OverUnder="1"/>
+        <SteadyState Duration="420" Power="0.40400001" pace="0"/>
+        <IntervalsT Repeat="2" OnDuration="105" OffDuration="45" OnPower="0.96399999" OffPower="1.052" pace="0" OverUnder="1"/>
+        <SteadyState Duration="420" Power="0.40400001" pace="0"/>
+        <IntervalsT Repeat="2" OnDuration="105" OffDuration="45" OnPower="0.96399999" OffPower="1.052" pace="0" OverUnder="1"/>
+        <SteadyState Duration="900" Power="0.5" pace="0"/>
+        <Cooldown Duration="600" PowerLow="0.30199999" PowerHigh="0.154" pace="0"/>
+    </workout>
+</workout_file>

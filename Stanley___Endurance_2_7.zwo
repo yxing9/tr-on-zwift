@@ -1,0 +1,17 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Stanley - Endurance 2.7</name>
+    <description>2 hours split into 5x22 minute intervals alternating between 55 and 60% FTP with a 5 minute warmup and 5 minute cooldown.</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.42" PowerHigh="0.55"/>
+        <SteadyState Duration="1320" Power="0.6"/>
+        <SteadyState Duration="1320" Power="0.55"/>
+        <SteadyState Duration="1320" Power="0.6"/>
+        <SteadyState Duration="1320" Power="0.55"/>
+        <SteadyState Duration="1320" Power="0.6"/>
+        <Cooldown Duration="300" PowerLow="0.55" PowerHigh="0.42"/>
+    </workout>
+</workout_file>

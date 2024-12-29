@@ -1,0 +1,38 @@
+<workout_file>
+  <author>TrainerRoad</author>
+  <name>Chiwaukum - Endurance 3.7</name>
+  <description>Chiwaukum is 2.5 hours of aerobic Endurance riding spent somewhere between 50-65% FTP.</description>
+  <sportType>bike</sportType>
+  <durationType>time</durationType>
+  <tags/>
+  <workout>
+    <SteadyState Duration="300" Power="0.5" pace="0"/>
+    <SteadyState Duration="300" Power="0.528" pace="0"/>
+    <SteadyState Duration="300" Power="0.56" pace="0"/>
+    <SteadyState Duration="300" Power="0.592" pace="0"/>
+    <SteadyState Duration="540" Power="0.608" pace="0"/>
+    <SteadyState Duration="360" Power="0.645" pace="0"/>
+    <SteadyState Duration="240" Power="0.601" pace="0"/>
+    <SteadyState Duration="360" Power="0.613" pace="0"/>
+    <SteadyState Duration="180" Power="0.589" pace="0"/>
+    <SteadyState Duration="360" Power="0.641" pace="0"/>
+    <SteadyState Duration="240" Power="0.601" pace="0"/>
+    <SteadyState Duration="420" Power="0.609" pace="0"/>
+    <SteadyState Duration="180" Power="0.589" pace="0"/>
+    <SteadyState Duration="300" Power="0.621" pace="0"/>
+    <SteadyState Duration="540" Power="0.581" pace="0"/>
+    <SteadyState Duration="420" Power="0.609" pace="0"/>
+    <SteadyState Duration="240" Power="0.629" pace="0"/>
+    <SteadyState Duration="360" Power="0.609" pace="0"/>
+    <SteadyState Duration="300" Power="0.649" pace="0"/>
+    <SteadyState Duration="300" Power="0.609" pace="0"/>
+    <SteadyState Duration="180" Power="0.649" pace="0"/>
+    <SteadyState Duration="300" Power="0.609" pace="0"/>
+    <SteadyState Duration="480" Power="0.629" pace="0"/>
+    <SteadyState Duration="420" Power="0.589" pace="0"/>
+    <SteadyState Duration="240" Power="0.629" pace="0"/>
+    <SteadyState Duration="360" Power="0.581" pace="0"/>
+    <SteadyState Duration="180" Power="0.561" pace="0"/>
+    <Cooldown Duration="300" PowerLow="0.562" PowerHigh="0.142" pace="0"/>
+  </workout>
+</workout_file>
