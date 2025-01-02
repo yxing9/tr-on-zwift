@@ -1,12 +1,5 @@
 <custom_file_directory>
     <custom_file>
-        <name>silver_lake.zwo</name>
-        <time>1735445507</time>
-        <guid>13073</guid>
-        <checksum>160</checksum>
-        <deleted>false</deleted>
-    </custom_file>
-    <custom_file>
         <name>Stanley___Endurance_2_7.zwo</name>
         <time>1735463907</time>
         <guid>2756</guid>
@@ -29,9 +22,9 @@
     </custom_file>
     <custom_file>
         <name>Silver_Lake___Threshold_1_5.zwo</name>
-        <time>1735463907</time>
-        <guid>27843</guid>
-        <checksum>201</checksum>
+        <time>1735523907</time>
+        <guid>2326</guid>
+        <checksum>160</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -47,5 +40,6 @@
         <hash>3055108406</hash>
         <hash>4200036540</hash>
         <hash>3599192785</hash>
+        <hash>1278760378</hash>
     </deleted_files>
 </custom_file_directory>

@@ -12,6 +12,6 @@
         <SteadyState Duration="1320" Power="0.6"/>
         <SteadyState Duration="1320" Power="0.55"/>
         <SteadyState Duration="1320" Power="0.6"/>
-        <Cooldown Duration="300" PowerLow="0.55" PowerHigh="0.42"/>
+        <Cooldown Duration="300" PowerLow="0.55" PowerHigh="0.43"/>
     </workout>
 </workout_file>
