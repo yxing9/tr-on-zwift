@@ -1,16 +1,51 @@
 <custom_file_directory>
     <custom_file>
+        <name>Wrynose___Swee_Spot_3_5.zwo</name>
+        <time>1736477684</time>
+        <guid>1883</guid>
+        <checksum>38</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Gibbs__1___Endurance_2_4.zwo</name>
+        <time>1736477285</time>
+        <guid>27843</guid>
+        <checksum>215</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Mont_Albert__1___Endurance_2_9.zwo</name>
+        <time>1736477684</time>
+        <guid>6690</guid>
+        <checksum>163</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Template.zwo</name>
+        <time>1735870019</time>
+        <guid>20893</guid>
+        <checksum>148</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Takazuma___Endurance_3_2.zwo</name>
+        <time>1735778716</time>
+        <guid>9233</guid>
+        <checksum>166</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Stanley___Endurance_2_7.zwo</name>
-        <time>1735463907</time>
+        <time>1735778716</time>
         <guid>2756</guid>
-        <checksum>161</checksum>
+        <checksum>160</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
         <name>Chiwaukum___Endurance_3_7.zwo</name>
-        <time>1735463907</time>
-        <guid>24542</guid>
-        <checksum>225</checksum>
+        <time>1735778716</time>
+        <guid>5897</guid>
+        <checksum>68</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -41,5 +76,7 @@
         <hash>4200036540</hash>
         <hash>3599192785</hash>
         <hash>1278760378</hash>
+        <hash>1717038999</hash>
+        <hash>3458790863</hash>
     </deleted_files>
 </custom_file_directory>
