@@ -1,0 +1,53 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Wrynose - Sweet Spot 3.5</name>
+    <description>Wrynose consists of 3 sets of 4x3-minute steps that start at 88% FTP and gradually rise to 94% FTP. Recoveries within the sets are brief at just 45 seconds each, and breaks between sets of intervals double that duration to 90 seconds each.</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <!-- Intro -->
+        <SteadyState Duration="120" Power="0.5"/>
+        <SteadyState Duration="120" Power="0.63"/>
+        <SteadyState Duration="120" Power="0.77"/>
+        <SteadyState Duration="120" Power="0.9"/>
+        <SteadyState Duration="120" Power="0.4"/>
+
+        <!-- Main sets  -->
+        <!-- Set 1 -->
+        <SteadyState Duration="180" Power="0.88"/>
+        <SteadyState Duration="45" Power="0.45"/>
+        <SteadyState Duration="180" Power="0.9"/>
+        <SteadyState Duration="45" Power="0.45"/>
+        <SteadyState Duration="180" Power="0.92"/>
+        <SteadyState Duration="45" Power="0.45"/>
+        <SteadyState Duration="180" Power="0.94"/>
+
+        <!-- Rest -->
+        <SteadyState Duration="90" Power="0.4"/>
+
+        <!-- Set 2 -->
+        <SteadyState Duration="180" Power="0.92"/>
+        <SteadyState Duration="45" Power="0.45"/>
+        <SteadyState Duration="180" Power="0.88"/>
+        <SteadyState Duration="45" Power="0.45"/>
+        <SteadyState Duration="180" Power="0.94"/>
+        <SteadyState Duration="45" Power="0.45"/>
+        <SteadyState Duration="180" Power="0.90"/>
+
+        <!-- Rest -->
+        <SteadyState Duration="90" Power="0.4"/>
+
+        <!-- Set 3 -->
+        <SteadyState Duration="180" Power="0.94"/>
+        <SteadyState Duration="45" Power="0.45"/>
+        <SteadyState Duration="180" Power="0.92"/>
+        <SteadyState Duration="45" Power="0.45"/>
+        <SteadyState Duration="180" Power="0.9"/>
+        <SteadyState Duration="45" Power="0.45"/>
+        <SteadyState Duration="180" Power="0.88"/>
+
+        <!-- Outro -->
+        <Cooldown Duration="255" PowerLow="0.4" PowerHigh="0.3"/>
+    </workout>
+</workout_file>

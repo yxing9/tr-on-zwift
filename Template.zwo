@@ -1,0 +1,16 @@
+<workout_file>
+    <author>TrainerRoad</author>
+    <name>Template - category 1.0</name>
+    <description>This is the workout description.</description>
+    <sportType>bike</sportType>
+    <tags>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.42" PowerHigh="0.55"/>
+        <SteadyState Duration="1320" Power="0.6"/>
+        <SteadyState Duration="300" Power="0.5" pace="0"/>
+        <IntervalsT Repeat="2" OnDuration="105" OffDuration="45" OnPower="0.96399999" OffPower="1.052" pace="0" OverUnder="1"/>
+        <Cooldown Duration="300" PowerLow="0.55" PowerHigh="0.43"/>
+        <Cooldown Duration="300" PowerLow="0.56" PowerHigh="0.51" pace="0"/>
+    </workout>
+</workout_file>
