@@ -1,7 +1,7 @@
 <workout_file>
     <author>TrainerRoad</author>
-    <name>Template - category 1.0</name>
-    <description>This is the workout description.</description>
+    <name>Template - category</name>
+    <description>ChangeDescription</description>
     <sportType>bike</sportType>
     <tags>
     </tags>

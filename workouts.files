@@ -1,9 +1,23 @@
 <custom_file_directory>
     <custom_file>
-        <name>Wrynose___Swee_Spot_3_5.zwo</name>
-        <time>1736477684</time>
-        <guid>1883</guid>
+        <name>Pettit_Endurance_2.8.zwo</name>
+        <time>1736559567</time>
+        <guid>5934</guid>
+        <checksum>224</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Wrynose___Sweet_Spot_3_5.zwo</name>
+        <time>1736558775</time>
+        <guid>3353</guid>
         <checksum>38</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Monte_Venda_Threshold_2_0.zwo</name>
+        <time>1736559332</time>
+        <guid>27554</guid>
+        <checksum>75</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
@@ -78,5 +92,6 @@
         <hash>1278760378</hash>
         <hash>1717038999</hash>
         <hash>3458790863</hash>
+        <hash>233549657</hash>
     </deleted_files>
 </custom_file_directory>
