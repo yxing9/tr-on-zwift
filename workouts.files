@@ -1,5 +1,12 @@
 <custom_file_directory>
     <custom_file>
+        <name>Square_Endurance_2_0.zwo.xml</name>
+        <time>1736916956</time>
+        <guid>11636</guid>
+        <checksum>163</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Pettit_Endurance_2.8.zwo</name>
         <time>1736559567</time>
         <guid>5934</guid>
@@ -36,9 +43,9 @@
     </custom_file>
     <custom_file>
         <name>Template.zwo</name>
-        <time>1735870019</time>
-        <guid>20893</guid>
-        <checksum>148</checksum>
+        <time>1736916956</time>
+        <guid>26219</guid>
+        <checksum>155</checksum>
         <deleted>false</deleted>
     </custom_file>
     <custom_file>
