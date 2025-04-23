@@ -1,5 +1,47 @@
 <custom_file_directory>
     <custom_file>
+        <name>Monte_Venda_&amp;_Ansilta.zwo</name>
+        <time>1744593694</time>
+        <guid>2425</guid>
+        <checksum>202</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>combined02092025.zwo</name>
+        <time>1739143397</time>
+        <guid>19882</guid>
+        <checksum>136</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Yamaska.zwo</name>
+        <time>1739143012</time>
+        <guid>22543</guid>
+        <checksum>40</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Square.zwo</name>
+        <time>1739143012</time>
+        <guid>4608</guid>
+        <checksum>65</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Mont Albert -1.zwo</name>
+        <time>1739143012</time>
+        <guid>14722</guid>
+        <checksum>197</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
+        <name>Hinch_Endurance_4_7.zwo</name>
+        <time>1737169380</time>
+        <guid>20152</guid>
+        <checksum>97</checksum>
+        <deleted>false</deleted>
+    </custom_file>
+    <custom_file>
         <name>Square_Endurance_2_0.zwo.xml</name>
         <time>1736916956</time>
         <guid>11636</guid>
